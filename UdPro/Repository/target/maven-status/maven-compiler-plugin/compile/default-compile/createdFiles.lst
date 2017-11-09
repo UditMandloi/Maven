@@ -1,0 +1,6 @@
+com\udit\model\ProductDTO.class
+com\udit\repository\LoginRepository.class
+com\udit\repository\ProductRepository.class
+com\udit\repository\RegistrationRepository.class
+com\udit\model\UserDTO.class
+com\udit\model\RegistrationDTO.class

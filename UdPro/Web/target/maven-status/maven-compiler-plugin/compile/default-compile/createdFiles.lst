@@ -1,0 +1,6 @@
+com\udit\controller\EmailInterceptor.class
+com\udit\controller\ProductController.class
+com\udit\controller\WelCome.class
+com\udit\controller\LoggingInterceptor.class
+com\udit\controller\RegistrationController.class
+com\udit\validator\RegistrationValidation.class
